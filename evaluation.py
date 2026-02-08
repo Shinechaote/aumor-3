@@ -142,7 +142,7 @@ class NCLTLoopClosureSystem:
         query_descriptors = data['query_descriptors']
         query_coords = data['query_coords']
         db_descriptors = data['db_descriptors']
-        db_coords = data['cdb_oords']
+        db_coords = data['db_coords']
         query_N = len(query_descriptors)
         db_N = len(db_descriptors)
         
